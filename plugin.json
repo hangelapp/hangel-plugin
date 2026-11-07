@@ -1,0 +1,18 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "hangel",
+  "displayName": "hangel",
+  "version": "1.0.0",
+  "description": "Find volunteering opportunities, plan NGO events and volunteer calls, scan open grant and funding calls, and shop for donations on hangel, a Turkiye-based social impact platform. Uses hangel's read-only public MCP server.",
+  "logo": "./logo.png",
+  "suggestedPrompts": [
+    "What environmental volunteering opportunities are open right now?",
+    "Which grant and funding calls for youth organisations are open now? Sort them by deadline.",
+    "Show running shoes on hangel Market, starting with the highest donation rate."
+  ],
+  "author": { "name": "hangel", "email": "info@hangel.org", "url": "https://hangel.org" },
+  "homepage": "https://hangel.org/developers/claude",
+  "repository": "https://github.com/hangelapp/hangel-plugin",
+  "license": "MIT",
+  "keywords": ["hangel", "ngo", "volunteering", "grants", "civil-society", "turkiye"]
+}

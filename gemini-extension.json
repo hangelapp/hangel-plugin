@@ -1,0 +1,11 @@
+{
+  "name": "hangel",
+  "version": "1.0.0",
+  "description": "Find volunteering opportunities, plan NGO events and volunteer calls, scan open grant and funding calls, and shop for donations on hangel, a Turkiye-based social impact platform. Uses hangel's read-only public MCP server.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "hangel": {
+      "httpUrl": "https://hangel.org/api/mcp"
+    }
+  }
+}

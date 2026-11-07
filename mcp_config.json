@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "hangel": {
+      "url": "https://hangel.org/api/mcp"
+    }
+  }
+}
