@@ -1,0 +1,15 @@
+{
+  "name": "hangel",
+  "displayName": "hangel",
+  "version": "1.0.0",
+  "description": "Find volunteering opportunities, plan NGO events and volunteer calls, scan open grant and funding calls, and shop for donations on hangel, a Turkiye-based social impact platform. Uses hangel's read-only public connector.",
+  "author": { "name": "hangel", "email": "info@hangel.org", "url": "https://hangel.org" },
+  "homepage": "https://hangel.org/developers/claude",
+  "repository": "https://github.com/hangelapp/hangel-plugin",
+  "license": "MIT",
+  "keywords": ["hangel", "ngo", "volunteering", "grants", "civil-society", "turkiye"],
+  "icon": "./logo.png",
+  "documentationUrl": "https://hangel.org/developers/claude",
+  "supportUrl": "https://hangel.org/support",
+  "privacyPolicyUrl": "https://hangel.org/policies/privacy"
+}
